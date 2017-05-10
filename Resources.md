@@ -6,12 +6,12 @@
 
 ## director
 
-* 书籍📚
-* 博客(blog)
-* 干货
-* 项目结构
-* 优质文章
-* 工具类
+* [书籍📚](#书籍📖) 
+* [博客(blog)](#博客Blog) 
+* [干货](#干货)
+* [项目结构](#项目结构)
+* [优质文章](#优质文章)
+* [工具类](#工具类)
 * 开源项目
 * 学习资源
 * Material Design
@@ -21,14 +21,14 @@
 
 ### 书籍 📖
 
-|         书籍          |                   推荐理由                   |
-| :-----------------: | :--------------------------------------: |
-|     java核心技术 卷I     | 作为android开发的语言基础,很适合开发者学习的一本基础知识书籍,打牢基础很重要 |
-|   Effective Java    | Java经典书籍,属于进阶系列,不过书中提到的有些内容不太适用于android,但是值得阅读 |
-|     第一行代码(第二版)      | 郭霖著作的第二版,基于android 7.0,贴合最新的android系统,很适合入门学习当中提及到的知识点很通俗易懂 |
-|    Android开发艺术探索    | 任玉刚著作,android 进阶书籍,这本书籍我也正在阅读,源码结合实践向大家阐述难点知识点,对于初级向中高级进阶很有帮助 |
-| Android 源码设计模式解析与实战 | 也是属于进阶书籍,阐述android 源码设计模式,提升自己的代码质量以及设计思想 |
-|        人类简史         |   在闲暇之外也可以阅读技术之外的文章拓宽的自己视野,此书籍也有很多人推荐    |
+|                    书籍                    |                   推荐理由                   |
+| :--------------------------------------: | :--------------------------------------: |
+| [java核心技术 卷I](http://item.jd.com/12037418.html) | 作为android开发的语言基础,很适合开发者学习的一本基础知识书籍,打牢基础很重要 |
+| [Effective Java](http://item.jd.com/10058902.html) | Java经典书籍,属于进阶系列,不过书中提到的有些内容不太适用于android,但是值得阅读 |
+| [第一行代码(第二版)](http://item.jd.com/12012505.html) | 郭霖著作的第二版,基于android 7.0,贴合最新的android系统,很适合入门学习当中提及到的知识点很通俗易懂 |
+| [Android开发艺术探索](http://item.jd.com/11760209.html) | 任玉刚著作,android 进阶书籍,这本书籍我也正在阅读,源码结合实践向大家阐述难点知识点,对于初级向中高级进阶很有帮助 |
+| [Android 源码设计模式解析与实战](https://www.amazon.cn/s/ref=nb_sb_ss_ime_i_3_8?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=android+%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98&sprefix=android+%2Caps%2C282) | 也是属于进阶书籍,阐述android 源码设计模式,提升自己的代码质量以及设计思想 |
+| [人类简史](http://item.jd.com/11549140.html) |   在闲暇之外也可以阅读技术之外的文章拓宽的自己视野,此书籍也有很多人推荐    |
 
 ### 博客Blog
 
@@ -36,23 +36,21 @@
 
 在这里推荐一些国内以及国外一些大牛的博客地址,在平时的学习中除了查看书籍之外,关注并阅读一些大牛的博客都可以提升自己的学习效率与知识面.
 
-[鸿洋](http://blog.csdn.net/lmj623565791)  相信大家都不陌生,热爱分享与写博客,产出质量也比较高,不仅仅有博客在慕课网也有视频教学:Hyman
-
-[stormzhang](http://stormzhang.com/)  帅b张 很有幽默感的人,有自己的见解乐于分享,除了编码的一些干货之外也分享很多关于技术人在职场中的为人处事态度
-
-[任玉刚](http://blog.csdn.net/singwhatiwanna)  android开发艺术探索的作者,给后者很多作为过来人的指引与见解,我也在努力学习中
-
-[Mr.Simple](http://blog.csdn.net/bboyfeiyu/article/list/1)  android 源码设计模式解析与实战的作者 分享了很多关于最新技术的知识点 置顶的几篇文章很受用大家可以阅读以下
-
-[郭霖](http://blog.csdn.net/guolin_blog)  第一行代码的作者,分享的博客文章对于很多新人来说很受用,也有对新技术在项目中的应用
+|                   Blog                   |                   博客信息                   |
+| :--------------------------------------: | :--------------------------------------: |
+| [鸿洋](http://blog.csdn.net/lmj623565791)  | 相信大家都不陌生,热爱分享与写博客,产出质量也比较高,不仅仅有博客在慕课网也有视频教学:Hyman |
+|   [stormzhang](http://stormzhang.com/)   | 帅b张 很有幽默感的人,有自己的见解乐于分享,除了编码的一些干货之外也分享很多关于技术人在职场中的为人处事态度,同时也可以关注他的微信公众号 |
+| [任玉刚](http://blog.csdn.net/singwhatiwanna) | android开发艺术探索的作者,给后者很多作为过来人的指引与见解,我也在努力学习中 |
+| [Mr.Simple](http://blog.csdn.net/bboyfeiyu/article/list/1) | android 源码设计模式解析与实战的作者 分享了很多关于最新技术的知识点 置顶的几篇文章很受用大家可以阅读以下 |
+|  [郭霖](http://blog.csdn.net/guolin_blog)  | 第一行代码的作者,分享的博客文章对于很多新人来说很受用,也有对新技术在项目中的应用 |
 
 > 国外(需要自备vpn)
 
-[Android Developers Blog](https://android-developers.googleblog.com/)  android 很多最新的学习资源2007～2017每年的一些知识与技术
-
-[Cyril Mottier](https://cyrilmottier.com/)  分享很多关于android 性能以及设计测试方法 
-
-[Dan Lew Codes](http://blog.danlew.net/page/2/)  android 项目中遇到的一些问题总结以及解决方法 
+|                   Blog                   |                 博客信息                 |
+| :--------------------------------------: | :----------------------------------: |
+| [Android Developers Blog](https://android-developers.googleblog.com/) | android 很多最新的学习资源2007～2017每年的一些知识与技术 |
+| [Cyril Mottier](https://cyrilmottier.com/) |       分享很多关于android 性能以及设计测试方法       |
+| [Dan Lew Codes](http://blog.danlew.net/page/2/) |      android 项目中遇到的一些问题总结以及解决方法      |
 
 这里就先推荐这些,当然还有很多其他优秀的博客,希望大家踊跃提出,大家共同学习进步
 
@@ -83,6 +81,7 @@ Goole Chrome 开发人员必备,大家应该都在使用,有很多插件对开�
 | [Android Blog 周刊](http://www.androidblog.cn/index.php/Index/index/p/1) |  优质的互联网技术,分享了很多关于优化app的干货,很值得学习  |
 |  [泡在网上的日子](http://www.jcodecraeer.com/)  | 很多的干货集中处,开源项目以及一些项目需求中的实现都能在这里查找 |
 |         [掘金](https://juejin.im)          |       技术分享干货网站,集中前端后端也有设计        |
+| [Android developers](https://developer.android.google.cn/index.html) |     身为android开发者这个网站每个人都应该知道     |
 
 > Studio 开发插件
 
@@ -106,4 +105,16 @@ Goole Chrome 开发人员必备,大家应该都在使用,有很多插件对开�
 通过以上几篇文章以及实例项目,很直观的了解到mvp在项目中的使用,一定要结合实践来理解会更加的透彻
 
 ### 优质文章
+
+这里推荐几篇对开发者很有意义的干货文章,望能给你带来帮助与建议.
+
+|                    文章                    |                   推荐理由                   |
+| :--------------------------------------: | :--------------------------------------: |
+| [整理常见的问题](https://github.com/leerduo/InterviewQuestion) | 整理了android 开发中遇到的一些常见问题以及难点给出解决方法也有在面试中遇到的常见问题 |
+| [如何看懂源码](http://www.cnblogs.com/ToDoToTry/archive/2009/06/21/1507760.html) | 作者总结了应该怎样阅读源码以及阅读源码需要的工具介绍和阅读的方式选择,有想阅读源码的小伙伴可以看看 |
+| [打造自己的android源码学习环境](http://blog.csdn.net/u013553529/article/details/54869238) |          教你一步步的搭建编译android源码的环境          |
+| [Android开发习惯](https://www.zhihu.com/question/27227425/answer/156976127) | 在android开发的过程中,习惯也很重要:文件命名、代码备注、注释等都体现了作为一名开发人员所要掌握的技能 |
+| [Android 开发最佳实践](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3) |        关于android 最新的热门推荐以及相关的项目资源        |
+
+### 工具类
 
