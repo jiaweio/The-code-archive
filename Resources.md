@@ -15,7 +15,7 @@
 * [开源项目](#开源项目)
 * [学习资源](#学习资源)
 * [Material Design](#Material Design)
-* 开源库
+* [开源库](#开源库)
 * 面试资料整理
 * 生活 
 
@@ -176,3 +176,19 @@ Goole Chrome 开发人员必备,大家应该都在使用,有很多插件对开�
 | [Material Design 教程](https://material.io/guidelines/material-design/introduction.html) | 很多material design的学习资源介绍,很适合刚接触此设计的同学们 |
 | [Material Design library](https://github.com/navasmdc/MaterialDesignLibrary) |        MD开源库,很多效果和控件布局都可以拿过来直接用        |
 |    [设计MD风格的界面](https://material.io/)     |    一个可以根据你的设计要求规范来设计界面,包括MD风格的Icon     |
+
+### 开源库
+
+> 使用稳定的第三方开源库能提高我们的开发效率,当然对于我们来说不仅仅是拿来使用,更重要的是使用后的学习
+
+|                    名称                    |                    介绍                    |
+| :--------------------------------------: | :--------------------------------------: |
+| [OkGo](https://github.com/jeasonlzy/okhttp-OkGo/) | OkHttpUtils的升级版本,完美支持RxJava,该库封装了okhttp的标准RESTFul风格的网络框架 |
+| [XRecyclerView](https://github.com/jianghejie/XRecyclerView/) | RecyclerView,实现了Pullrefresh和loadmore,你可以像标准的RecyclerView一样使用它 |
+| [Fastjson](https://github.com/alibaba/fastjson/) | fastjson是一个Java库,可用于将Java对象转为Json表示形式,也可以用于将Json字符串转换为等效的Java对象 |
+| [butterknife](https://github.com/JakeWharton/butterknife) | Android视图和回调函数绑定到字段的方法,View注解库可以大大减少你的findViewById |
+| [Glide](https://github.com/bumptech/glide/) | 图片加载和缓存框架,使用方法也和[picasso](https://github.com/square/picasso/)非常相似,当然如果你的项目当中里面包含较多的图片加载,你也可以使用 [fresco](https://github.com/facebook/fresco/) 同样很强大 |
+| [RxJava](https://github.com/ReactiveX/RxJava/) | 函数响应式编程,两个字形容就是"异步",Rxjava最大的特点就是代码简洁,这里指的并不是代码简洁,而是逻辑上的简洁, 学习它需要一定的成本 |
+| [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/) | Android Tablayout开源库实现了各种样式需求,很强大使用也很方便  |
+
+这里只是推荐介绍了很少一部分的开源库 ,还有很多 后续我会持续添加更新到这里
