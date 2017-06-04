@@ -16,8 +16,7 @@
 * [学习资源](#学习资源)
 * [Material Design](#Material Design)
 * [开源库](#开源库)
-* 面试资料整理
-* 生活 
+* [面试资料整理](#面试资料整理)
 
 ### 书籍 📖
 
@@ -192,3 +191,23 @@ Goole Chrome 开发人员必备,大家应该都在使用,有很多插件对开�
 | [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout/) | Android Tablayout开源库实现了各种样式需求,很强大使用也很方便  |
 
 这里只是推荐介绍了很少一部分的开源库 ,还有很多 后续我会持续添加更新到这里
+
+### 面试资料整理
+
+* [2017年初、阿里、腾讯、百度、华为面题目汇集](http://blog.csdn.net/xiaole0313/article/details/62056612)
+
+* [2017 Android最全面试总结](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548612&idx=1&sn=8e46b6dd47bd8577a5f7098aa0889098&chksm=f1180c39c66f852fd955a29a9cb4ffa9dc4d528cab524059bcabaf37954fa3f04bc52c41dae8&scene=21#wechat_redirect)
+
+* [Android 面试知识库](https://github.com/GeniusVJR/LearningNotes)
+
+* [2016 年末，腾讯，百度...面试题目汇总](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
+
+* [2017 Android 面试题(基础与细节)](https://segmentfault.com/a/1190000008720237)
+
+* [面试遇到算法题?看这篇就够啦](https://juejin.im/post/58ca051f61ff4b0060165122)
+
+* [Android 面试题收集](https://juejin.im/post/58a6c38861ff4b0062ae4c25)
+
+  面试中容易遇到的一些问题,这些文章都有提到,大家可以针对性的挑一到两篇学习
+
+> 后续还有很多的学习资料分享出来供大家查阅,也希望大家能联系我或者提Issues 我会尽快回复, 如果帮助到你欢迎大家Star 
